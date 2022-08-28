@@ -9,5 +9,8 @@ package com.mycompany.payroll_system;
  * @author Je'Shon
  */
 public class List_Employee {
+
+    public void setVisible(boolean b) {
+    }
     
 }

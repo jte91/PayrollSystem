@@ -20,7 +20,7 @@ public class splash
         for(i=2; i<=600; i+=4,x+=1)
         {
             //clac opens the menu or window of the frame with some speed and icrementing at a particular speend and F1 not set to size 
-            f1.setLocation((800-(i+x)/2)),500-(i/2));
+            f1.setLocation((800-(i+x)/2),500-(i/2));
             //Iteratively increase the size of window till the perfect size
             f1.setSize(i+x,i);
             //create closing of the window and the opening (every 0.01 second)
