@@ -14,4 +14,7 @@ public class List_Attendance {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
+
+    public void setVisible(boolean b) {
+    }
 }

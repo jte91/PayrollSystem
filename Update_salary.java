@@ -9,5 +9,8 @@ package com.mycompany.payroll_system;
  * @author Je'Shon
  */
 public class Update_salary {
+
+    public void setVisible(boolean b) {
+    }
     
 }

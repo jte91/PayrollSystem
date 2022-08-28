@@ -9,5 +9,8 @@ package com.mycompany.payroll_system;
  * @author Je'Shon
  */
 public class TakeAttendance {
+
+    public void setVisible(boolean b) {
+    }
     
 }
